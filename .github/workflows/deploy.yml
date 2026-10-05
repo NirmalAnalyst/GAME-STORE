@@ -38,8 +38,8 @@ jobs:
 
       - name: Build production bundle
         run: npm run build
-        env :
-        BASE_URL: /GAME-STORE
+        env:
+          BASE_URL: /GAME-STORE/
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
