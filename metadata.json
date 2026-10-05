@@ -2,5 +2,7 @@
   "name": "Valkyrie Precision Gaming Gear",
   "description": "High-performance mechanical keyboards, ultralight wireless mice, planar audio, and bespoke custom battlestations built for competitive esports.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
